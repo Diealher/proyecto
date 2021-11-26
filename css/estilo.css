@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+	
+.t1{
+	color: red;
+	font-family:"Times New Roman", Times, serif;
+	
+}
+	
+	
+body{
+	
+	
+	background: url("../img/fondo.jpg") no-repeat center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+	
+}
+p{
+	color:#9C3;
+	
+	
+		
+}
+
+h2{
+	color:#FF0;
+	
+}
+
+
+.t2{
+	color: #FF0;
+	
+	
+
+.t3{
+	background:linear-gradient(top, black 10%, orangered 75%, yellow);
+}
